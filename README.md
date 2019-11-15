@@ -1,0 +1,2 @@
+# Compare-the-GDP-rate-of-Aus-India-and-Usa-
+By using this project we have compare the GDP rate of Aus, India and Usa as well as we forecast the GDP rate of Aus, India and Usa. By Visualization we have compare the trend and found the in which year GDP rate is lowest and Hightest. The project has been integrate the uncomplicated, intermediary, questions that are solved and figerout the trend of GDP in USA, India and Australia and  the forecast GDP of  USA, India and Australia? 
